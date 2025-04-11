@@ -131,7 +131,7 @@ The proxy server handles both streaming and non-streaming responses from Ollama,
 
 ## 📝 License
 
-[Add your license here]
+MIT Open Source
 
 ## 🤝 Contributing
 
